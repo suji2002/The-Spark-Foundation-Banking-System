@@ -77,7 +77,7 @@ if(isset($_POST['submit']))
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Transferto</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style1.css">
 
     <style type="text/css">
     	
@@ -104,7 +104,7 @@ if(isset($_POST['submit']))
            <a href="HomePage.html">Home</a>
        </nav>
        </header>
-       <hr color="grey" style="height: 5px;margin-top: 0%;" >
+       <hr color="white" style="height: 5px;margin-top: 0%;" >
 
 
 	    <div class="container">

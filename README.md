@@ -1,2 +1,2 @@
-# The-Spark-Foundation-Banking-System
+# The-Sparks-Foundation-Banking-System
 Internship
